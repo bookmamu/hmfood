@@ -1,0 +1,617 @@
+{
+  "header": {
+    "logo": {
+      "url": "./assets/images/logo.svg",
+      "alt": "Logo"
+    },
+    "navigation": [
+      {
+        "type": "link",
+        "link": "./",
+        "text": "Home"
+      },
+      {
+        "type": "link",
+        "link": "./contact",
+        "text": "Contact"
+      },
+      {
+        "type": "button",
+        "link": "./be-a-chef",
+        "text": "Be a Chef"
+      }
+    ]
+  },
+  "ratings": {
+    "title": "Ratings",
+    "playstore": {
+      "star": "4.5",
+      "text": "play store",
+      "button": {
+        "url": "https://play.google.com/store/apps/details?id=home.food.hmfoodwala.customerapp",
+        "icon": "./assets/images/playstore_white.svg",
+        "text": "Get it on Playstore"
+      }
+    },
+    "testimonials": [
+      {
+        "text": "Hmfoodwala has amazing food and delivery of Home made food",
+        "author": "Ranesh Bhattacharya"
+      },
+      {
+        "text": "this is a great app loaded with functionality and simplicity yet elegant and intuitive.",
+        "author": "Mohit Sethi"
+      },
+      {
+        "text": "Finally I get Home made food",
+        "author": "Swathi"
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "url": "./assets/images/logo.svg",
+      "alt": "Logo"
+    },
+    "actions": [
+      {
+        "icon": "./assets/images/playstore_white.svg",
+        "text": "Download",
+        "link": "https://play.google.com/store/apps/details?id=home.food.hmfoodwala.customerapp"
+      }
+    ],
+    "contact": {
+      "title": "Contact",
+      "icon": "fas fa-map-marker-alt",
+      "text": "Doddanakundi,Bangalore, India 560037"
+    },
+    "speak_with_us": {
+      "title": "Speak with Us",
+      "icon": "fas fa-envelope",
+      "text": "support@hmfoodwala.com",
+      "url": "mailto:support@hmfoodwala.com"
+    },
+    "social_media": {
+      "title": "Social Media",
+      "links": [
+        {
+          "icon": "fab fa-facebook",
+          "url": "https://www.facebook.com/Hmfoodwala-105365544270257"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "url": "https://www.instagram.com/hmfoodwala11/"
+        },
+        {
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/channel/UCvRKbMia4xk0w9t9TlCRCWg/"
+        }
+      ]
+    },
+    "copyright": "© 2021 HMFoodWala. All Rights Reserved."
+  },
+  "home": {
+    "banner": {
+      "subheader": {
+        "small": "We Serve in",
+        "large": "Bangalore"
+      },
+      "header": {
+        "orange": "Authentic and Homemade",
+        "black": "Food delivered to your Home"
+      },
+      "description": "Missing Home made food of your Authentic state food ? Your wait is over…! We bring Home made food at your door steps.",
+      "actions": [
+        {
+          "icon": "./assets/images/playstore_white.svg",
+          "text": "Download",
+          "link": "https://play.google.com/store/apps/details?id=home.food.hmfoodwala.customerapp"
+        }
+      ],
+      "image": {
+        "url": "./assets/images/home_banner.png",
+        "alt": "Illustration"
+      }
+    },
+    "steps": {
+      "title": "How it Works",
+      "image": {
+        "url": "./assets/images/steps.png",
+        "alt": "Steps"
+      }
+    },
+    "food_of_india": {
+      "background": "./assets/images/map.png",
+      "title": {
+        "black": "Food of",
+        "orange": "India"
+      },
+      "description": "Enjoy Your State food at your door step. We encourage  home chefs to prepare delicious and various state foods by which You can can grab Authentic taste of the Food.",
+      "states": [
+        {
+          "map": {
+            "url": "./assets/images/RJ.svg",
+            "alt": "Rajasthan"
+          },
+          "text": "Rajasthani",
+          "image": "./assets/images/rajasthani-1.jpg",
+          "slides": [
+            "./assets/images/rajasthani-1.jpg",
+            "./assets/images/rajasthani-2.jpg",
+            "./assets/images/rajasthani-3.jpg"
+          ]
+        },
+        {
+          "map": {
+            "url": "./assets/images/TN.svg",
+            "alt": "Tamilnadu"
+          },
+          "text": "Tamilian",
+          "image": "./assets/images/tamil_thali.jpg",
+          "slides": [
+            "./assets/images/tamil_thali.jpg",
+            "./assets/images/Masala-Dosa.jpg",
+            "./assets/images/tamil_coconut.jpg"
+          ]
+        },
+        {
+          "map": {
+            "url": "./assets/images/GJ.svg",
+            "alt": "Gujarat"
+          },
+          "text": "Gujarati",
+          "image": "./assets/images/thali.jpg",
+          "slides": [
+            "./assets/images/thali.jpg",
+            "./assets/images/Gujrati-Food-Blog-Banner-845x321.jpg",
+            "./assets/images/gujarat_2.jpg"
+          ]
+        },
+        {
+          "map": {
+            "url": "./assets/images/KA.svg",
+            "alt": "Karnataka"
+          },
+          "text": "Kannada",
+          "image": "./assets/images/Tatte-Idli.jpg",
+          "slides": [
+            "./assets/images/Tatte-Idli.jpg",
+            "./assets/images/Karnataka_2.jpg",
+            "./assets/images/Karnataka_3.jpg"
+          ]
+        },
+        {
+          "map": {
+            "url": "./assets/images/PB.svg",
+            "alt": "Punjab"
+          },
+          "text": "Punjabi",
+          "image": "./assets/images/punjabi-1.jpg",
+          "slides": [
+            "./assets/images/punjabi-1.jpg",
+            "./assets/images/punjabi-2.jpg",
+            "./assets/images/punjabi-3.jpg"
+          ]
+        },
+        {
+          "map": {
+            "url": "./assets/images/BR.svg",
+            "alt": "Bihar"
+          },
+          "text": "Bihari",
+          "image": "./assets/images/bihar-1.jpg",
+          "slides": [
+            "./assets/images/bihar-1.jpg",
+            "./assets/images/bihar-2.jpg",
+            "./assets/images/bihar-3.jpg"
+          ]
+        },
+        {
+          "map": {
+            "url": "./assets/images/MH.svg",
+            "alt": "Maharashtra"
+          },
+          "text": "Marathi",
+          "image": "./assets/images/marathi-1.jpg",
+          "slides": [
+            "./assets/images/marathi-1.jpg",
+            "./assets/images/marathi-2.jpg",
+            "./assets/images/marathi-3.jpg"
+          ]
+        },
+        {
+          "map": {
+            "url": "./assets/images/HP.svg",
+            "alt": "Himachal Pradesh"
+          },
+          "text": "Himachali",
+          "image": "./assets/images/himachal-1.jpg",
+          "slides": [
+            "./assets/images/himachal-1.jpg",
+            "./assets/images/himachal-2.jpg",
+            "./assets/images/himachal-3.jpg"
+          ]
+        },
+        {
+          "map": {
+            "url": "./assets/images/KL.svg",
+            "alt": "Kerala"
+          },
+          "text": "Kerala",
+          "image": "./assets/images/kerala-1.jpg",
+          "slides": [
+            "./assets/images/kerala-1.jpg",
+            "./assets/images/kerala-2.jpg",
+            "./assets/images/kerala-3.jpg"
+          ]
+        }
+      ]
+    },
+    "how_it_works": {
+      "title": "Multiple chef with different cuisines",
+      "slides": [
+        {
+          "title": "Browse the Foods",
+          "description": "Open the Hmfoodwala App, Explore your favourite homemade food from nearby Chefs and tap to add what you love to eat. ",
+          "image": {
+            "url": "./assets/images/device-2021-03-27-142019.png",
+            "alt": "Browse the Home made food"
+          }
+        },
+        {
+          "title": "Order your favourite Food",
+          "description": "Add the Dish to your Cart, Choose the delivery address and then place the order either for a single day or for a week and do the payment as per the meal plan.",
+          "image": {
+            "url": "./assets/images/device-2021-03-27-142200.png",
+            "alt": "Order Screen"
+          }
+        },
+        {
+          "title": "Subscription",
+          "description": "Subscribe for Particular days and get Food without ordering again and again",
+          "image": {
+            "url": "./assets/images/device-2021-03-27-142400.png",
+            "alt": "Subscription home made food"
+          }
+        },
+        {
+          "title": "Delivery Pickup & Track",
+          "description": "Chef receives the notification for the orders and prepares the meal. Our delivery agent picks up from the Chefs, drives to the customer house and delivers the order on time. Track order status on the map.",
+          "image": {
+            "url": "./assets/images/device-2021-03-27-142753.png",
+            "alt": "Delivery Pickup and Track Screen"
+          }
+        }
+      ]
+    },
+    "hm_vs_restaurant": {
+      "title": "How are we different from Restaurant foods?",
+      "points": [
+        "Get your favourite food delivered with Utmost Hygiene.",
+        "Our Food is free from Chemicals and no added preservatives.",
+        "100% Homemade Quality and Authentic Foods.",
+        "Home pickup and home delivery through our delivery partners."
+      ],
+      "graphics": {
+        "homemade": {
+          "image": {
+            "url": "./assets/images/homemade.png",
+            "alt": "Homemade"
+          },
+          "text": "Homemade"
+        },
+        "vs": {
+          "horizontal_image": {
+            "url": "./assets/images/vs_h.png",
+            "alt": "VS"
+          },
+          "vertical_image": {
+            "url": "./assets/images/vs_v.png",
+            "alt": "VS"
+          }
+        },
+        "restaurant": {
+          "image": {
+            "url": "./assets/images/restaurant.png",
+            "alt": "Restaurant"
+          },
+          "text": "Restaurant"
+        }
+      }
+    },
+    "subscriptions": {
+      "title": {
+        "black": "Subscriptions"
+      },
+      "description": "Tired of Ordering Food Every day, just go with Single Tap for Weekly Subscription and make your work easier by enjoying the Delicious Home food. Choose from the cuisines select your meal plan and then choose the days you want food to be delivered.",
+      "image": {
+        "url": "./assets/images/subscriptions.png",
+        "alt": "subscriptions"
+      }
+    },
+    "nutrition_information": {
+      "title": {
+        "orange": "Nutrition",
+        "black": "Information"
+      },
+      "description": "Are you Keen of your health and want to Know the Food benefits, Hmfoodwala has Come up with the Concept of Providing Nutrional information related to Carbohydrates, Proteins, Calories for each Plate of the meal served by our Home chefs.",
+      "image": {
+        "url": "./assets/images/nutrition_information.png",
+        "alt": "Nutrition Information"
+      },
+      "action": {
+        "text": "Learn More",
+        "url": "./nutrition-information"
+      }
+    }
+  },
+  "contact_us": {
+    "title": "Contact",
+    "stay_connected": {
+      "title": {
+        "black": "Stay",
+        "orange": "Connected"
+      },
+      "description": [
+        "Questions? Comments? Please fill out the Form or Email us",
+        "Our team is happy to answer your questions. Fill out the form and we’ll be in touch as soon as possible."
+      ]
+    },
+    "email": {
+      "icon": "fas fa-envelope",
+      "text": "support@hmfoodwala.com",
+      "url": "mailto:support@hmfoodwala.com"
+    },
+    "contact_form": {
+      "title": "Contact Us !",
+      "fields": [
+        {
+          "id": "name",
+          "type": "text",
+          "placeholder": "Name",
+          "required": true,
+          "wrapper_col": "col-12"
+        },
+        {
+          "id": "subject",
+          "type": "text",
+          "placeholder": "Subject",
+          "required": true,
+          "wrapper_col": "col-12"
+        },
+        {
+          "id": "phone",
+          "type": "tel",
+          "pattern": "[6789][0-9]{9}",
+          "placeholder": "Phone",
+          "required": true,
+          "wrapper_col": "col-12 col-md-6"
+        },
+        {
+          "id": "email",
+          "type": "email",
+          "placeholder": "Email",
+          "required": true,
+          "wrapper_col": "col-12 col-md-6"
+        },
+        {
+          "id": "message",
+          "type": "textarea",
+          "placeholder": "Message",
+          "required": true,
+          "wrapper_col": "col-12"
+        }
+      ],
+      "button_label": "Send a Message"
+    },
+    "download_cta": {
+      "title": "Download the Application",
+      "actions": [
+        {
+          "icon": "./assets/images/playstore_dark.svg",
+          "text": "Download",
+          "link": "https://play.google.com/store/apps/details?id=com.hmfoodwala.chefapp"
+        }
+      ]
+    }
+  },
+  "be_a_chef": {
+    "title": "Be A Home Chef",
+    "benefits_section": {
+      "title": {
+        "black": "Benefits of Being a",
+        "orange": "HMFoodwala Chef"
+      },
+      "benefits": [
+        {
+          "image": {
+            "url": "./assets/images/ample-and-managed-payments.svg",
+            "alt": "Ample and Managed Payments"
+          },
+          "icon": {
+            "url": "./assets/images/ample-and-managed-payments-icon.svg",
+            "alt": "Ample and Managed Payments"
+          },
+          "title": "Ample and <br> Managed Payments",
+          "points": [
+            "Earning for Housewife is Easy. 50,000 PM  earning.",
+            "Weekly payment of your earning.",
+            "Rewards Program on Complete milestone.",
+            "Handsome amount of Bonus on Achieving targets.",
+            "No investment, Start with Registration only."
+          ]
+        },
+        {
+          "image": {
+            "url": "./assets/images/easy-going-and-more-growing.svg",
+            "alt": "Easy Going and More Growing"
+          },
+          "icon": {
+            "url": "./assets/images/easy-going-and-more-growing-icon.svg",
+            "alt": "Easy Going and More Growing"
+          },
+          "title": "Easy Going <br> and More Growing",
+          "points": [
+            "Be professional chef and manage multiple chef under you.",
+            "Easy menu management from Application.",
+            "Easy Vacation management from application.",
+            "One day advance order booking which help you to manage grocery in advance.",
+            "Subscription of food will help to manage long durability of Customer."
+          ]
+        },
+        {
+          "image": {
+            "url": "./assets/images/our-chefs-make-a-great-team.svg",
+            "alt": "Our Chefs Make a Great Team"
+          },
+          "icon": {
+            "url": "./assets/images/our-chefs-make-a-great-team-icon.svg",
+            "alt": "Our Chefs Make a Great Team"
+          },
+          "title": "Our Chefs <br> Make a Great Team",
+          "points": [
+            "Be a Part of Revolution of Clean and Hygienic food.",
+            "Dry food item will help you to serve across City.",
+            "Subscription of food will help to manage long durability of Customer.",
+            "Emergency support from support team.",
+            "No competition benefits"
+          ]
+        }
+      ]
+    },
+    "contact_form": {
+      "title": "Register as a Chef !",
+      "fields": [
+        {
+          "id": "name",
+          "type": "text",
+          "placeholder": "Name",
+          "required": true,
+          "wrapper_col": "col-12"
+        },
+        {
+          "id": "subject",
+          "type": "text",
+          "placeholder": "Subject",
+          "required": true,
+          "wrapper_col": "col-12"
+        },
+        {
+          "id": "phone",
+          "type": "tel",
+          "pattern": "[6789][0-9]{9}",
+          "placeholder": "Phone",
+          "required": true,
+          "wrapper_col": "col-12"
+        },
+        {
+          "id": "email",
+          "type": "email",
+          "placeholder": "Email",
+          "required": true,
+          "wrapper_col": "col-12"
+        },
+        {
+          "id": "message",
+          "type": "textarea",
+          "placeholder": "Message",
+          "required": false,
+          "wrapper_col": "col-12"
+        }
+      ],
+      "button_label": "Submit"
+    },
+    "why_hmfoodwala": {
+      "title": {
+        "black": "Why",
+        "orange": "HMFoodwala ? "
+      },
+      "description": [
+        "We at Hmfoodwala aim at empowering women and Provides Platform for women to register as a Home chef and can earn money by cooking from Home. ",
+        "Join Hmfoodwala Team by submitting the below details or Download Hmfoodwala app and get registered as a Home chef. Create your chef profile start showcasing your own menu with authentic dishes, Set your availability days and get paid for the orders what you love to cook. ",
+        "We help for the pickup and delivery ",
+        "Our Team will get in touch shortly for further assistance"
+      ]
+    },
+    "chef_app": {
+      "stats": [
+        {
+          "number": "200+",
+          "title": "Registered Housewife"
+        },
+        {
+          "number": "1000+",
+          "title": "Live Menu"
+        },
+        {
+          "number": "150+",
+          "title": "Pin code serving for Bangalore"
+        },
+        {
+          "number": "1000+",
+          "title": "Delivery Boys"
+        },
+        {
+          "number": "100K +",
+          "title": "Customer Expected"
+        }
+      ],
+      "button": {
+        "icon": "./assets/images/playstore_white.svg",
+        "text": "Download Chef Application",
+        "url": "https://play.google.com/store/apps/details?id=com.hmfoodwala.chefapp"
+      }
+    }
+  },
+  "nutrition_information": {
+    "title": "Homemade Healthy Food",
+    "info_section": {
+      "title": {
+        "orange": "Nutrition",
+        "black": "Information"
+      },
+      "punchline": "Are you Keen of your health and want to know the Food benefits ?",
+      "description": "Hmfoodwala has Come up with the Concept of Providing <em>Nutrional information</em> for each Plate of the meal served by our Home chefs."
+    },
+    "how_it_works": {
+      "title": {
+        "black": "How it Works and",
+        "orange": "Benefits"
+      },
+      "benefits": [
+        {
+          "wrapper_col": "col-12 col-md-6",
+          "image": {
+            "url": "./assets/images/how-it-works-1.svg",
+            "alt": "How it Works"
+          },
+          "description": "Our Chefs adds every ingredient details with the measurements for the recipe. Our Home chefs knows exactly which ingredients and how much of each going into our food serving."
+        },
+        {
+          "wrapper_col": "col-12 col-md-6 shifted",
+          "image": {
+            "url": "./assets/images/how-it-works-2.svg",
+            "alt": "How it Works"
+          },
+          "description": "This helps to show the calorie consumption and the individual information for each recipe to maintain a healthy weight."
+        },
+        {
+          "wrapper_col": "col-lg-8 offset-lg-2",
+          "image": {
+            "url": "./assets/images/nutrition_information.png",
+            "alt": "How it Works"
+          },
+          "description": "Every recipe menu includes a calorie count, along with the amount of carbohydrates, fat, protein, nutrients and sodium in each meal."
+        },
+        {
+          "wrapper_col": "col-lg-8 offset-lg-2",
+          "image": {
+            "url": "./assets/images/how-it-works-4.svg",
+            "alt": "How it Works"
+          },
+          "description": "You will love to have Our Hmfoodwala app that helps to track essential vitamins and minerals for weight management and a healthy balanced diet."
+        }
+      ]
+    }
+  }
+}
